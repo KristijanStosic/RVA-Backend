@@ -12,11 +12,8 @@
 	<artifactId>Backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Backend</name>
-<<<<<<< HEAD
 	<description>Project for RVA 2020/2021 Course</description>
-=======
 	<description>Project for RVA 2020/2021 Course - FTN</description>
->>>>>>> 55deacedb33ff984f7a81db75e56638d7b449d41
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
